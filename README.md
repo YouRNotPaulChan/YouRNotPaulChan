@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### This is my githup profile :beer: , let's go to code fun!!!
+##### This is my github profile :beer: , let's go to code fun!!!
 
 <!--
 **YouRNotPaulChan/YouRNotPaulChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
