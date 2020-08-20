@@ -1,19 +1,21 @@
 ![This is me!](http://doublechen.top/photos/IMG_4366.jpg)
 
-### Hi Guys 👋, Welcome to my profile! :tada:
+### Hi Guys👋, Welcome to my profile! :tada:
 
 #### I am a Rubyist from China
-
 
 - Beginning learn ruby at 2017-06-25.
 - Finished my first project at 2017-07-30.
 - Three years of work experience so far, dedicated to the research of 5G related technologies
 
-
-
 #### My detaills :beers:
 
+Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=YouRNotPaulChan&show_icons=true)
+
+Languages
+
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YouRNotPaulChan&hide=ipynb,html&layout=compact)
 
 
