@@ -1,5 +1,3 @@
-![This is me!](http://doublechen.top/photos/IMG_4366.jpg)
-
 ### Hi Guys👋, Welcome to my profile! :tada:
 
 #### I am a Rubyist from China
