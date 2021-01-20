@@ -10,11 +10,11 @@
 
 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YouRNotPaulChan&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YouRNotPaulChan&show_icons=true&count_private=true&theme=radical)
 
 Languages
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YouRNotPaulChan&hide=ipynb,html&layout=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YouRNotPaulChan&hide=ipynb,html&layout=compact&theme=radical)
 
 
 
